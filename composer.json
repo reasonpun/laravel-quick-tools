@@ -1,5 +1,5 @@
 {
-    "name": "reasonpun/src",
+    "name": "reasonpun/laravel-quick-tools",
     "description": "agile development",
     "keywords": ["laravel","php","tool","api","scaffold"],
     "type": "sdk",
