@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use Reasonpun\LaravelQuick\Services\BaseService;
+
+class DummyClass extends BaseService
+{
+
+}

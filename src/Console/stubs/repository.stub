@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use Reasonpun\LaravelQuick\Repositories\BaseRepository;
+
+class DummyClass extends BaseRepository
+{
+
+}
