@@ -1,9 +1,9 @@
 <?php
 
-namespace Reasonpun\LaravelQuick\Exceptions;
+namespace Reasonpun\LaravelQuickTools\Exceptions;
 
 use Illuminate\Support\Traits\Macroable;
-use Reasonpun\LaravelQuick\Traits\JsonResponseTrait;
+use Reasonpun\LaravelQuickTools\Traits\JsonResponseTrait;
 use Exception;
 use Illuminate\Support\MessageBag;
 use Symfony\Component\HttpFoundation\Response as FoundationResponse;

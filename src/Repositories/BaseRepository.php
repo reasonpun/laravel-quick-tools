@@ -1,6 +1,6 @@
 <?php
 
-namespace Reasonpun\LaravelQuick\Repositories;
+namespace Reasonpun\LaravelQuickTools\Repositories;
 
 class BaseRepository
 {

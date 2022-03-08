@@ -5,7 +5,7 @@
  * Date: 2020/7/23
  * Time: 12:39 PM
  */
-namespace Reasonpun\LaravelQuick\Console;
+namespace Reasonpun\LaravelQuickTools\Console;
 
 use Illuminate\Console\GeneratorCommand;
 

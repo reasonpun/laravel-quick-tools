@@ -6,9 +6,9 @@
  * Time: 11:19 AM
  */
 
-namespace Reasonpun\LaravelQuick\Exceptions\Api;
+namespace Reasonpun\LaravelQuickTools\Exceptions\Api;
 
-use Reasonpun\LaravelQuick\Exceptions\ApiException;
+use Reasonpun\LaravelQuickTools\Exceptions\ApiException;
 
 class ApiRequestException extends ApiException
 {

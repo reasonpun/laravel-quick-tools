@@ -2,7 +2,7 @@
 
 namespace DummyNamespace;
 
-use Reasonpun\LaravelQuick\Services\BaseService;
+use Reasonpun\LaravelQuickTools\Services\BaseService;
 
 class DummyClass extends BaseService
 {

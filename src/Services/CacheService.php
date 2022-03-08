@@ -1,6 +1,6 @@
 <?php
 
-namespace Reasonpun\LaravelQuick\Services;
+namespace Reasonpun\LaravelQuickTools\Services;
 
 use Carbon\Carbon;
 use DateInterval;

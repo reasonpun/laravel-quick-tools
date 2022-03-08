@@ -1,6 +1,6 @@
 <?php
 
-namespace Reasonpun\LaravelQuick\Traits;
+namespace Reasonpun\LaravelQuickTools\Traits;
 
 /**
  * Trait StatusAttributeTrait

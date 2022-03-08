@@ -7,15 +7,15 @@
  * Updated by Reasonpun
  */
 
-namespace Reasonpun\LaravelQuick;
+namespace Reasonpun\LaravelQuickTools;
 
 use Illuminate\Support\ServiceProvider;
-use Reasonpun\LaravelQuick\Console\CreateRepositoryCommand;
-use Reasonpun\LaravelQuick\Console\CreateServiceCommand;
-use Reasonpun\LaravelQuick\Console\CreateTraitCommand;
-use Reasonpun\LaravelQuick\Services\CacheService;
+use Reasonpun\LaravelQuickTools\Console\CreateRepositoryCommand;
+use Reasonpun\LaravelQuickTools\Console\CreateServiceCommand;
+use Reasonpun\LaravelQuickTools\Console\CreateTraitCommand;
+use Reasonpun\LaravelQuickTools\Services\CacheService;
 
-class LaravelQuickServiceProvider extends ServiceProvider
+class LaravelQuickToolsServiceProvider extends ServiceProvider
 {
     /**
      * @var array

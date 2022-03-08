@@ -26,10 +26,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Reasonpun\\LaravelQuick\\LaravelQuickServiceProvider"
+                "Reasonpun\\LaravelQuickTools\\LaravelQuickToolsServiceProvider"
             ],
             "aliases": {
-                "CacheClient": "Reasonpun\\LaravelQuick\\Facades\\CacheClient::class"
+                "CacheClient": "Reasonpun\\LaravelQuickTools\\Facades\\CacheClient::class"
             }
         }
     }

@@ -2,7 +2,7 @@
 
 namespace DummyNamespace;
 
-use Reasonpun\LaravelQuick\Repositories\BaseRepository;
+use Reasonpun\LaravelQuickTools\Repositories\BaseRepository;
 
 class DummyClass extends BaseRepository
 {
